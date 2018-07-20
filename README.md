@@ -1,2 +1,6 @@
 # notes
-notes that could become blog entries hahahaha
+
+Notes that could become blog entries.
+
+
+
